@@ -1,0 +1,34 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "respawn",
+            "id": "d667ede5-976e-4c33-b400-6b78bf729a0e",
+            "actions": [
+                {
+                    "name": "spawn",
+                    "type": "Button",
+                    "id": "d2433bee-6a9a-4080-b6f6-141e7156a973",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a39cedec-4af8-4f41-b98a-bc37e3e8cc35",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "spawn",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
